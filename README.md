@@ -1,4 +1,4 @@
-# primitive_calc-PshenichnikovaFt-200007
+# costWrittenCyrillic-PshenichnikovaFt-200007
 Лабораторная работа №2 по прикладному программированию, выполнила студентка Фт-200007 Пшеничникова Анна Александровна
 ## Название программы
 costWrittenCyrillic
